@@ -1,12 +1,10 @@
 8.3 Mars and Beyond 1957 52min -
-8.3 Summer of Soul (...Or, When the Revolution Could Not Be Televised) 2021 1h57
+8.3 Summer of Soul (...Or, When the Revolution Could Not Be Televised) 2021 1h57 VO
 7.9 Playing with Sharks: The Valerie Taylor Story 2021 1h31 -
-7.9 The Boys: L'histoire des frères Sherman 2009 1h41
+7.9 The Boys: L'histoire des frères Sherman 2009 1h41 VO
 7.9 Miracle sur la 34ème rue 1947 1h36
-7.8 Diana une Icone Mystérieuse 2017 1h53
 7.8 I Captured the King of the Leprechauns 1959 52min -
 7.7 The Fab Five 2011 1h35 -
-7.7 French Connection 1971 1h44
 7.6 The Dominican Dream 2019 1h40 -
 7.6 Love, Simon 2018 1h51
 7.5 Brooklyn 2015 1h51
@@ -61,15 +59,13 @@
 7.0 Au fil de la vie 1988 2h03
 7.0 Ladyhawke 1985 2h01
 7.0 Cléopatre 1963 4h11
-7.0 Voyage au centre de la Terre 1959 2h09
-7.0 Davy Crockett roi des trappeurs 1955 1h33
 
 - Action/Aventure
 - Animation
 - Comédies Romantiques *
 - Science-Fiction
-- Thrillers
-- Western
+- Thrillers *
+- Western *
 
 9.2 Seconde Guerre Mondiale Héros de la Survie -
 9.0 Il était une fois les Imagineers, les visionnaires Disney 2019
