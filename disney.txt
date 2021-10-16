@@ -1,52 +1,40 @@
+Tia Dalma +3 (113)
+Gadget +4 (31)
+John Silver +5 (36)
+
 8.3 Mars and Beyond 1957 52min -
 8.3 Summer of Soul (...Or, When the Revolution Could Not Be Televised) 2021 1h57 VO
 7.9 Playing with Sharks: The Valerie Taylor Story 2021 1h31 -
-7.9 The Boys: L'histoire des frères Sherman 2009 1h41 VO
 7.9 Miracle sur la 34ème rue 1947 1h36
 7.8 I Captured the King of the Leprechauns 1959 52min -
 7.7 The Fab Five 2011 1h35 -
-7.6 The Dominican Dream 2019 1h40 -
-7.6 Love, Simon 2018 1h51
-7.5 Brooklyn 2015 1h51
-7.5 Bienvenue chez Trudy 2002 1h52
-7.5 High Fidelity 2000 1h54
+7.6 Mary 2017 1h41
 7.4 Wolfgang 2021 1h18 -
-7.4 Eddie the Eagle 2015 1h46
-7.4 Grizzly 2014 1h18
 7.4 Pollyanna 1960 2h14
 7.4 The Liberty Story 1957 48min -
-7.3 Indian Palace 2011 2h04
-7.3 Pony Excess 2010 1h42
-7.3 Les ailes pourpres - Le mystère des flamants 2008 1h18
-7.3 Life Aquatic With Steve Zissou 2004 1h59
-7.3 Un monde pour nous 1989 1h40
-7.3 Good Morning Vietnam 1988 2h01
-7.3 Arizona Junior 1987 1h34
-7.3 Big Trouble in Little China 1986 1h40
-7.3 Bobby des greyfriars 1961 1h31
-7.2 Chadwick Boseman: A Tribute for a King 2020 39min
-7.2 Nature Boy 2017 1h17
-7.2 Nés en Chine 2016 1h20
-7.2 Grandir 2016 1h18
-7.2 Secretariat 2010 2h04
-7.2 Crazy Heart 2009 1h52
+7.3 Pony Excess 2010 1h42 -
+7.3 Bobby des greyfriars 1961 1h31 -
+7.2 Chadwick Boseman: A Tribute for a King 2020 39min -
+7.3 The Descendants 2011 1h55
+7.2 Nature Boy 2017 1h17 -
 7.2 Les Chemins du triomphe 2006 1h59
 7.2 La couleur de l'amitié 2000 1h22
-7.2 Fantasia 2000 1h16
 7.2 Le Combat de Ruby Bridges 1998 1h30
 7.2 Starship Troopers 1997 2h10
-7.2 The Parent Trap 1961 2h09
+7.2 Les chariots de feu 1981 2h03
+7.2 Brubaker 1980 2h11
+7.2 La Fiancée de Papa 1961 2h09
 7.2 Les Robinsons des mers du sud 1960 2h06
 7.2 Darby O'Gill et les farfadets 1959 1h33
 7.1 Goodbye Christopher Robin 2017 1h47
 7.1 Loin de la foule déchaînée 2015 1h59
-7.1 Les Winners 2011 1h45
 7.1 Chemins croisés 2015 2h09
+7.1 Les Winners 2011 1h45
 7.1 Auprès de Moi Pour Toujours 2010 1h43
 7.1 The Savages 2007 1h54
 7.1 Invincible 2006 1h45
+7.1 Super Troopers 2001 1h40
 7.1 Les Trois Prochains Jours 2001 1h32
-7.1 Mickey, il était une fois Noël 1999 1h05
 7.1 Natty Gann 1985 1h41
 7.1 L'aventure du Poséidon 1972 1h57
 7.1 L'express du colonel von Ryan 1965 1h57
@@ -56,28 +44,34 @@
 7.0 Un Lancer à un Million de Dollars 2014 2h05
 7.0 À tout jamais: Une histoire de Cendrillon 1998 2h01
 7.0 Miracle à minuit 1998 1h28
+7.0 L'Incroyable Voyage 1993 1h24
 7.0 Au fil de la vie 1988 2h03
 7.0 Ladyhawke 1985 2h01
 7.0 Cléopatre 1963 4h11
 
-- Action/Aventure
+- Action/Aventure *
 - Animation
+Comédie (Waitress)
+Documentaire (Penguins)
+Drame (Les Chariots de Feu)
 - Comédies Romantiques *
-- Science-Fiction
+- Science-Fiction *
+Sport *
 - Thrillers *
 - Western *
 
-9.2 Seconde Guerre Mondiale Héros de la Survie -
-9.0 Il était une fois les Imagineers, les visionnaires Disney 2019
-9.0 Firefly 2002
-8.9 Gravity Falls
-8.8 Secrets of the Whales 2021
-8.8 One Strange Rock 2018
+9.0 Firefly 2002 VO
+8.9 McCartney 3, 2, 1 2021 -
+8.9 Gravity Falls 2012
+8.7 Secrets of the Whales 2021 -
 8.6 The Incredible Dr. Pol 2011
 8.6 X Files 1993
 8.6 Les Simpson 1989
+8.5 Growing Up Animal 2021 -
 8.5 Dans un autre monde: Les coulisses de La Reine des Neiges II 2020
+8.5 People Just Do Nothing 2018
 8.5 Sons of Anarchy 2008
+8.4 Only Murders in the Building 2021
 8.4 Destination Wild : Russie à l'État Sauvage 2018
 8.4 Au coeur du zoo 2018
 8.4 The Americans 2013
@@ -85,6 +79,7 @@
 8.4 Modern Family 2009
 8.4 Futurama 1999
 8.4 Le Muppet Show + The Muppets 1976
+8.3 Seconde Guerre Mondiale Héros de la Survie -
 8.3 Hostile Planet 2019
 8.3 Genius 2017
 8.3 Dr. Oakley, Yukon Vet 2014
@@ -109,9 +104,11 @@
 8.2 Buffy contre les vampires 1997
 8.1 Marvel Studios Rassemblement 2021
 8.1 Love, Victor 2020
+8.1 Europe From Above 2019 -
 8.1 Chien Guide D'aveugle en Devenir 2019
 8.1 Lost Treasures of Egypt 2019
 8.1 Bob's Burgers 2011
+8.1 Great Migrations 2010
 8.1 Castle 2009
 8.1 Esprits criminels 2005
 8.1 Les Griffin 1999
@@ -120,16 +117,21 @@
 8.0 Solar Opposites 2020
 8.0 Prairie Dog Manor 2019
 8.0 Godfather of Harlem 2019
+8.0 The Orville 2017
 8.0 Animal ER 2016
 8.0 Star Butterfly 2015
 8.0 American Horror Story 2011
 8.0 Raising Hope 2010
 8.0 Phineas & Ferb 2007
-7.9 Les coulisses des attractions 2021
+7.9 Les coulisses des attractions Behind the Attraction 2021
 7.9 Le monde merveilleux de Mickey 2020
+7.9 Mrs America 2020
 7.9 Fosse/Verdon 2019
 7.9 Les Cités Perdues d'Albert Lin 2019
+7.9 La mafia uccide solo d'estate 2016
+7.8 Gordon Ramsay: Uncharted 2019
 7.8 Le Monde selon Jeff Goldblum 2019
+7.8 Tyrant 2014
 7.8 Devious Maids 2013
 7.8 Revenge 2011
 7.8 Bones 2005
@@ -171,6 +173,7 @@
 7.4 Continent 7: Antarctica 2016
 7.4 Les Gardiens de la Galaxie 2015
 7.3 Les Coulisses de Pixar 2020
+7.3 Baghdad Central 2020
 7.3 Buried Secrets of WWII 2019 (...)
 7.3 The Gifted 2017
 7.3 Andi 2017
@@ -248,3 +251,5 @@
 2020 Les courts métrages Disney
 2020 Rendez-vous avec le destin
 2020 Le Monde Merveilleux de Mickey
+2021 Les Aventures au Parc de Tic et Tac
+2021 Comment rester à la maison avec Dingo
